@@ -1,5 +1,5 @@
 # NaClCon 2026 - Herding The Cats, Building Hacker Communities in the Early Days of the Internet
-***
+
 
 This presentation was given at [NaClCon](https://naclcon.com) in June of 2026
 
